@@ -1,6 +1,7 @@
 /*  the before example so given acan move only to the port that is sepcifed, and now the route will be defined for a 
 specific url's as required*/
 /* this method somehow saves the part of writing the route.get with different url over and over again*/
+/*forEach function is an EC5 implementation*/
 
 	var pages = [
 		{ 'route' : '', output : 'Wohoooo!'},
